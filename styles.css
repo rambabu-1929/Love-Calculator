@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Niconne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    margin: 0; padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(./images/love.jpg);
+    background-size: cover;
+    background-position: top;
+}
+
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border: 1px solid black ;
+}
+
+.title {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.5rem;
+    background-color: #EB1D36;
+    color: whitesmoke;
+    padding: 20px;
+    text-align: center;
+}
+
+form {
+    margin-top: 20px;
+    display: flex;
+}
+
+.form-control {
+    display: block;
+  width: 100%;
+  padding: 0.375rem 0.75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  text-align: center;
+  line-height: 1.5;
+  color: #212529;
+  background-color: #fff;
+  background-clip: padding-box;
+  border: 1px solid #ced4da;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border-radius: 0.25rem;
+  transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.span {
+    color: whitesmoke;
+    margin: 0 10px 0 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.btn {
+    text-align: center;
+}
+
+button {
+    margin: 20px 0 20px 0;
+    border: none;
+    border-radius: 30px;
+    padding: 10px 20px;
+    background-color: #25aa0b;
+    color: whitesmoke;
+}
+
+button:hover {
+    font-family: 'Roboto', sans-serif;
+    cursor: pointer;
+    background-color: #1f810b;
+}
+
+.result {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.footer {
+    font-family: 'Niconne', cursive;
+    font-size: 2rem;
+    background-color: #EB1D36;
+    text-align: center;
+    padding: 20px;
+    color: whitesmoke;
+}
