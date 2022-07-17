@@ -5,9 +5,9 @@ hope you will enjoy it.
 -----Merits------
 
 * You will find your bond with your crush 🤴🏾👸🏾
-* It's like the quote 'Enjuy the little things, while it lasts
+* It's like the quote 'Enjoy the little things, while it lasts..
 
-------De MErits------
+------Demerits------
 * This is not responsive. 🤷🏾‍♀️
 * You may find this as 'Not user frindly'..
 * IT would be beter for you to view this in laptop or desktop.
